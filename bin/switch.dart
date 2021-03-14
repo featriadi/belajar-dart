@@ -15,6 +15,5 @@ main(List<String> arguments) {
       break;
     default:
       print("Bilangan lain");
-      break;
   }
 }
